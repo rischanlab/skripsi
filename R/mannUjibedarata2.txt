@@ -1,0 +1,47 @@
+
+> setwd("D:/GIT/skripsi/R")
+
+> load("D:/GIT/skripsi/R/pretes.RData")
+
+> qqPlot(pretes$eksperimen, dist="norm")
+
+> qqPlot(pretes$kontrol, dist="norm")
+
+> library(relimp, pos=4)
+
+> showData(pretes, placement='-20+200', font=getRcmdr('logFont'), maxwidth=80,
++    maxheight=30)
+
+> load("D:/GIT/skripsi/R/dataanalisis.RData")
+
+> showData(dataanalisis, placement='-20+200', font=getRcmdr('logFont'), 
++   maxwidth=80, maxheight=30)
+
+> tapply(dataanalisis$pretes, dataanalisis$group, median, na.rm=TRUE)
+   kontrol eksperimen 
+        18         17 
+
+> wilcox.test(pretes ~ group, alternative='two.sided', exact=TRUE, 
++   correct=FALSE, data=dataanalisis)
+
+	Wilcoxon rank sum test
+
+data:  pretes by group 
+W = 411.5, p-value = 0.749
+alternative hypothesis: true location shift is not equal to 0 
+
+
+> tapply(dataanalisis$postes, dataanalisis$group, median, na.rm=TRUE)
+   kontrol eksperimen 
+      28.5       49.0 
+
+> wilcox.test(postes ~ group, alternative='two.sided', exact=TRUE, 
++   correct=FALSE, data=dataanalisis)
+
+	Wilcoxon rank sum test
+
+data:  postes by group 
+W = 66.5, p-value = 9.416e-08
+alternative hypothesis: true location shift is not equal to 0 
+
+

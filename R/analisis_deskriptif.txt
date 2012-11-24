@@ -1,0 +1,98 @@
+
+> setwd("D:/GIT/skripsi/R")
+
+> load("D:/GIT/skripsi/R/dataanalisis.RData")
+
+> library(relimp, pos=4)
+
+> showData(dataanalisis, placement='-20+200', font=getRcmdr('logFont'), 
++   maxwidth=80, maxheight=30)
+
+> summary(dataanalisis)
+     pretes          postes             group   
+ Min.   : 5.00   Min.   : 5.00   kontrol   :28  
+ 1st Qu.:13.00   1st Qu.:23.25   eksperimen:28  
+ Median :17.50   Median :39.50                  
+ Mean   :19.29   Mean   :38.50                  
+ 3rd Qu.:21.50   3rd Qu.:51.00                  
+ Max.   :65.00   Max.   :70.00                  
+
+> library(abind, pos=4)
+
+> library(e1071, pos=4)
+
+> numSummary(dataanalisis[,c("postes", "pretes")], groups=dataanalisis$group, 
++   statistics=c("mean", "sd", "IQR", "quantiles"), quantiles=c(0,.25,.5,.75,1))
+
+Variable: postes 
+               mean       sd   IQR 0%  25%  50%   75% 100%  n
+kontrol    26.39286 15.09069 16.25  5 15.0 22.5 31.25   67 28
+eksperimen 50.60714 10.54212 16.75 37 41.5 49.0 58.25   70 28
+
+Variable: pretes 
+               mean        sd  IQR 0%   25% 50%  75% 100%  n
+kontrol    19.25000  9.785193 7.75  7 13.75  18 21.5   50 28
+eksperimen 19.32143 12.457494 8.50  5 13.00  17 21.5   65 28
+
+> showData(dataanalisis, placement='-20+200', font=getRcmdr('logFont'), 
++   maxwidth=80, maxheight=30)
+
+> # Table for postes:
+
+> tapply(dataanalisis$postes, list(group=dataanalisis$group), min,max, 
++   na.rm=TRUE)
+
+> # Table for pretes:
+
+> tapply(dataanalisis$pretes, list(group=dataanalisis$group), min,max, 
++   na.rm=TRUE)
+
+> # Table for postes:
+
+> tapply(dataanalisis$postes, list(group=dataanalisis$group), min, na.rm=TRUE)
+group
+   kontrol eksperimen 
+         5         37 
+
+> # Table for pretes:
+
+> tapply(dataanalisis$pretes, list(group=dataanalisis$group), min, na.rm=TRUE)
+group
+   kontrol eksperimen 
+         7          5 
+
+> # Table for postes:
+
+> tapply(dataanalisis$postes, list(group=dataanalisis$group), max, na.rm=TRUE)
+group
+   kontrol eksperimen 
+        67         70 
+
+> # Table for pretes:
+
+> tapply(dataanalisis$pretes, list(group=dataanalisis$group), max, na.rm=TRUE)
+group
+   kontrol eksperimen 
+        50         65 
+
+> load("D:/GIT/skripsi/R/pretes.RData")
+
+> showData(pretes, placement='-20+200', font=getRcmdr('logFont'), maxwidth=80,
++    maxheight=30)
+
+> shapiro.test(pretes$eksperimen)
+
+	Shapiro-Wilk normality test
+
+data:  pretes$eksperimen 
+W = 0.8301, p-value = 0.0003812
+
+
+> shapiro.test(pretes$kontrol)
+
+	Shapiro-Wilk normality test
+
+data:  pretes$kontrol 
+W = 0.8746, p-value = 0.003057
+
+
