@@ -1,0 +1,67 @@
+BAB I PENDAHULUAN
+1.1 Latar Belakang
+1.2 Rumusan Masalah
+1.3 Batasan Masalah
+1.4 Tujuan Penelitian
+1.5 Manfaat Penelitian
+1.6 Keaslian Penelitian
+
+
+BAB II TINJAUAN PUSTAKA DAN LANDASAN TEORI
+2.1 Tinjauan Pustaka
+2.2 Landasan Teori
+	2.2.1 Pengertian Belajar
+	2.2.2 Media Pembelajaran
+	2.2.3 Proses Pembelajaran
+		2.2.3.1 Pengertian Ranah Penilaian Kognitif
+		2.2.3.2 Ranah Afektif dan Psikomotorik
+	2.2.4 Belajar Pemrograman (Learning Programming)
+	2.2.5 Bahasa Pemrograman Visual (Visial Programming Languages/VPLs)
+		2.2.5.1 Kelebihan dan Kekurangan VPLs
+			2.2.5.1.1 Kelebihan VPLs
+			2.2.5.1.2 Kekurangan VPLs
+	2.2.6 IndoBlockly
+		2.2.6.1 Konsep IndoBlockly
+		
+
+BAB III METODOLOGI PENELITIAN
+
+3.1 Metode Penelitian
+3.2 Populasi dan Sampel
+	3.2.1 Populasi
+	3.2.2 Sampel
+3.3 Desain Penelitian
+3.4 Alur Penelitian
+3.5 Prosedur Penelitian
+	3.5.1 Persiapan Penelitian
+	3.5.2 Pelaksanaan Penelitian
+	3.5.3 Penyelesaian Penelitian
+3.6 Instrumen Penelitian
+	3.6.1 Seperangkat Soal
+		3.6.1.1 Menentukan Validitas Soal
+		3.6.1.2 Menentukan Reabilitas Soal
+		3.6.1.3 Menentukan Daya Pembeda Soal
+		3.6.1.4 Menentukan Tingkat Kesukaran Soal
+3.7 Teknik Pengumpulan Data
+3.8 Teknik Pengolahan Data
+	3.8.1 Pengolahan Data Kuantitatif
+		3.8.1.1 Analisis Data Tes
+			3.8.1.1.1 Analisis Deskriptif
+			3.8.1.1.2 Analisis Inferensi
+				3.8.1.1.2.1 Uji Normalitas
+				3.8.1.1.2.2 Uji Homogenitas Varians
+				3.8.1.1.2.3 Uji Perbedaan Dua Rata-rata
+   
+BAB IV HASIL PENELITIAN DAN PEMBAHASAN
+4.1 Hasil Penelitian dan Pembahasan
+	4.1.1 Analisis Deskriptif Data Hasil Pretes dan Postes
+	4.1.2 Analisis Inferensi Data Hasil Pretes dan Postes
+		4.1.2.1 Analisis Data Kemampuan Awal Mahasiswa
+			4.1.2.1.1 Uji Normalitas Data Pretes
+			4.1.2.1.2 Uji Perbedaan Dua Rata-Rata Data Pretes
+		4.1.2.2 Analisis Data Kemampuan Akhir Mahasiswa
+			4.1.2.2.1 Uji Normalitas Data Postes
+			4.1.2.2.2 Uji Perbedaan Dua Rata-Rata Data Postes
+		4.1.2.3 Analisis  Data  Kualitas  Peningkatan  Kemampuan  Mahasiswa
+		
+   
