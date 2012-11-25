@@ -1,0 +1,23 @@
+
+> load("D:/GIT/skripsi/R/pretes.RData")
+
+> summary(pretes)
+    kontrol        eksperimen   
+ Min.   : 7.00   Min.   : 5.00  
+ 1st Qu.:13.75   1st Qu.:13.00  
+ Median :18.00   Median :17.00  
+ Mean   :19.25   Mean   :19.32  
+ 3rd Qu.:21.50   3rd Qu.:21.50  
+ Max.   :50.00   Max.   :65.00  
+
+> load("D:/GIT/skripsi/R/postes.RData")
+
+> summary(postes)
+    kontrol        eksperimen   
+ Min.   : 5.00   Min.   :37.00  
+ 1st Qu.:15.00   1st Qu.:41.50  
+ Median :22.50   Median :49.00  
+ Mean   :26.39   Mean   :50.61  
+ 3rd Qu.:31.25   3rd Qu.:58.25  
+ Max.   :67.00   Max.   :70.00  
+
