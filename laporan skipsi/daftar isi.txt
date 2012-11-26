@@ -51,6 +51,7 @@ BAB III METODOLOGI PENELITIAN
 				3.8.1.1.2.1 Uji Normalitas
 				3.8.1.1.2.2 Uji Homogenitas Varians
 				3.8.1.1.2.3 Uji Perbedaan Dua Rata-rata
+				3.8.1.1.2.3 Analisis Korelasi Pretes Postes Kelas Ekperimen
    
 BAB IV HASIL PENELITIAN DAN PEMBAHASAN
 4.1 Hasil Penelitian dan Pembahasan

@@ -1,0 +1,17 @@
+ cor.test(eksperimen[,c("pretes")],eksperimen[,c("postes")], method="spearman")
+
+ 
+ > shapiro.test(eksperimen$pretes)
+
+	Shapiro-Wilk normality test
+
+data:  eksperimen$pretes 
+W = 0.8301, p-value = 0.0003812
+
+
+> shapiro.test(eksperimen$postes)
+
+	Shapiro-Wilk normality test
+
+data:  eksperimen$postes 
+W = 0.9045, p-value = 0.01463
