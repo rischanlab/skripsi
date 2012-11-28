@@ -1,0 +1,142 @@
+Dari lukisan di gua hieroglif sejak dulu manusia sudah lama berkomunikasi satu dengan lainya menggunakan gambar.
+Banyak para peneliti di bidang VPL bertanya: Mengepa kemudian kita saat ini berkomunikasi dengan komputer menggunakan pemrograman tekstual?
+Bukankah akan lebih produktif jika dapat menginstruksikan komputer hanya menggunakan gambar.? Jelas para pendukung VPLs menjawab ya.
+
+Pertanyaan-pertanyaan diatas menjadi motivasi utama para peneliti di bidang VPLs.
+Pertama. banyak orang berpikir dan mengingat hal hal dari segi gambar.[Smith 1975]
+
+Selain itu pemrograman tekstual telah terbukti menjadi masalah bagi orang-orang kreatif dan cerdas , mereka harus banyak belajar terlebih dahulu mengenai sintak-sintak tekstualnya dari bahasa pemrograman itu sendiri.
+
+Permasalahan yang lain adalah ide lebih mudah diterjemahkan dalam bentuk gambar visual atau grafik akan tetapi kita harus menerjemahkan ide tersebut kedalam bentuk tekstual.
+
+Selain itu banyak bidang-bidang ilmu yang memerlukan simulasi dalam bentuk visual dan tidak bisa di interpretasikan dalam bentuk tekstual.
+
+Dari berbagai alasan diatas itu membuktikan bahawa penelitian mengenai VPLs itu menarik dan penting.
+
+Visual Programming Languages: A Survey
+Marat Boshernitsan
+Michael Downes
+
+
+Report No. UCB/CSD-04-1368
+December 2004
+Computer Science Division (EECS)
+University of California
+Berkeley, California 94720
+
+
+
+
+
+[Smith 1975] Smith, D. C. PYGMALION: A Creative Programming Environment. PhD dissertation, Stan-
+ford University, 1975.
+
+
+
+
+
+Konsep2 Pemrograman Visual
+
+Kelebihan dan kekurangan
+
+LogoBlocks:
+A Graphical Programming Language for
+Interacting with the World
+by Andrew Begel
+AUP Advisor: Mitchel Resnick
+Epistemology and Learning Group
+MIT Media Laboratory
+May 24, 1996
+
+
+
+Pemrograman grafis/visual memiliki kelebihan dan kekurangan dibandingkan dengan pemrograman tekstual.
+Menggunakan representasi grafis dari benda-benda, Anda bisa lebih konkret merepresentasikan suatu objek
+(klik dua kali pada objek koper dan melihat apa yang ada di dalam), menghilangkan 
+sintak-sintak yang susah untuk dipahami (seperti {} dan ()dalam C, BEGIN dan END dan ()dalam Pascal, dan () dalam Lisp).
+Pemrograman grafis/visual juga dapat dikatakan sebagai metafora dari kehidupan nyata untuk membuat pemrograman lebih mudah.Sebagai contoh, pemrograman tombol lampu untuk menghidupkan dan mematikan lampu. Pemrograman grafis juga memungkinkan lebih mudah untuk berbagi program. Anda dapat
+mendefinisikan program Anda menjadi blok tertentu dan hanya "memberikan" blok ke teman untuk mencoba sendiri. Hal ini mirip dengan manfaat yang diusulkan desain OOP dalam bahasa tekstual.
+Keuntungan lain adalah mudah dipahami. Melihat gambar dari sebuah program, pengguna dapat
+lebih mudah membedakan maknanya, daripada melihat program tekstual yang terdiri dari file dan kode yang sangat banyak.
+Mungkin salah satu keuntungan terbaik adalah penggunaan isyarat visual dalam bahasa grafis/visual.
+Sambungan/koneksi antar objek dapat dibuat lebih eksplisit melalui desain dan grafis daripada menggunakan tekstual.
+
+Kekurangan
+
+Di sisi lain, ada juga kerugian. Beberapa bahasa grafis/visual yang dapat menyebabkan frustrasi bagi programmer expert yang ingin mengungkapkan pernyataan yang mungkin lebih baik dan efektif diwakili menggunakan teks. Selain itu Masalah pemrograman visual adalah bahwa Anda tidak bisa memiliki lebih dari 50 primitif visual pada layar pada saat yang sama. "
+Pertanyaan selanjutnya adalah Bagaimana Anda akan menulis sebuah sistem operasi dengan pemrograman visual? "
+Masalah lain adalah extendibility bahasa. C dan Lisp dibangun untuk dikembangkan oleh
+para programmer. Pada saat ini, bahasa grafis cenderung terbatas pada pembuat desain tanpa berpikir untuk menambahkan fitur tambahan
+
+
+Ada daya tarik yang sangat tinggi dari Pemrograman Visual yaitu untuk anak-anak. Anak-anak suka memanipulasi blok dan mengumpulkan koleksi benda. seringkali masalah utama untuk mengajarkan pemrograman kepada anak-anak adalah bahwa sintak-sintak pemrograman yang sulit dipahami.VPLs menghilangkan masalah ini, anak-anak akan lebih mudah untuk membuat program. Akan tetapi Sebuah bahasa grafis/visual yang terlalu sederhana dapat mengurangi kreatifitas seorang anak untuk membuat program/sesuatu yang menyenangkan. Ketika anak bertambah usia dan lebih cerdas, ia dapat bermigrasi ke bahasa tekstual dan menggunakan kompleksitas yang lebih besar.
+
+
+
+
+
+PEMAHAMAN PROGRAMMING
+
+Int. J. Human-Computer Studies (2001) 54, 799}829
+doi:10.1006/ijhc.2000.0465
+Available online at http://www.idealibrary.com on
+Are visual programming languages better?
+The role of imagery in program comprehension
+RAQUEL NAVARRO-PRIETO- AND JOSE J. CAN 3
+AS
+Departamento de Psicologn H
+a Experimental, Facultad de Psicologn H
+a,
+Universidad de Granada, Spain. email: raquel.navarro-prieto@motorola.com
+(Received 8 October 1999, and accepted in revised form 10 October 2000)
+
+
+Pemahaman dalam memprogram merupakan bagian penting dari keterampilan pemrograman komputer, baik dari 
+yang praktis,perspektif maupun teoritis. Ini adalah sebuah keterampilan kognitif yang kompleks, yang melibatkan 
+akuisisi representasi mental dari struktur program dan fungsi. Dari sudut pandang Theoretical , pemahaman melibatkan penugasan makna tertentu, sesuatu yang membutuhkan pengetahuan khusus. 
+
+Dari sudut pandang praktis, kemampuan untuk memahami program yang ditulis oleh orang lain atau ketika membuat program sendiri adalah  komponen penting keahlian seorang programmer. Skill pemahaman ini akan digunakan programer untuk melakukan tugas-tugas pemrograman seperti debugging, editing dan, code reuse.  Pennington (1987a). Memperkirakan bahwa lebih dari 50% dari semua waktu programmer profesional yang dihabiskan untuk tugas-tugas pemeliharaan program yang melibatkan modifikasi/editing dan update dari program sebelumnya ditulis. Dari berbagai hal diatas dapat kita simpulkan bahwa pemahaman memainkan peran sentral dalam pemrograman.
+Oleh karena itu, penelitian tentang strategi pemahaman akan sangat berguna karena hasilnya dapat Memberikan informasi yang berguna untuk meningkatkan kinerja programmer, kemajuan pendidikan, kemajian teknologi desain dan
+lingkungan permrograman (programming environments).
+
+PENNINGTON, N. (1987a). Stimulus structures and mental representation in expert comprehension
+of computer programs. Cognitive Psychology, 19, 295-341.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

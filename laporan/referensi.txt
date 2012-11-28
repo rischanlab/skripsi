@@ -1,0 +1,53 @@
+
+Arsyad, Azhar. 2004. Media Pembelajaran. Jakarta : PT. Raja Grafindo Persada.
+
+
+Winkel, W.S. (1983).Psikologi Pendidikan dan Evaluasi Belajar,Jakarta:Gramedia
+
+Dahar, R.W. (1989). Teori-teori Belajar. Bandung: Erlangga. 
+
+Ena,O.T.,2007,Membuat Media Pembelajaran Interaktif dengan Piranti Lunak Presentasi.Yogyakarta: ILCIC, Universitas Sanata Dharma.
+
+A. Robins, J. Rountree, and N. Rountree.(2003).Learning and teaching programming: A review and discussion. Computer Science Education, 13(2):137–172.
+
+Lahtinen, E., Mutka, K. A., and Jarvinen, H. M., “A Study of the difficulties of novice programmers”,  In Proceedings of the 10th annual SIGSCE conference on Innovation and technology in computer science education (ITICSE 2005), Monte da Caparica, Portugal, June 27-29, 2005, ACM Press, New York, NY, pp. 14-18.
+
+
+Kelleher, C. & Pausch, R. (2005). Lowering the barriers to programming: a taxonomy of programming environments and languages for novice programmers. ACM Computing Surveys, 37(2), 88-137. 
+
+Maloney, J., Peppler, K., Kafai, Y., Resnick, M., and Rusk, N. (2008). Programming by Choice: Urban Youth Learning Programming with Scratch.Proceedings of the 39th SIGCSE technical symposium on Computer science education, March 12-15, 2008, Portland, OR, USA .
+
+Bloom B. S. (1956). Taxonomy of Educational Objectives, Handbook I: The Cognitive Domain. New York: David McKay Co Inc.
+
+Navarro-Prieto, R., Jose J.Can.(2001).Are visual programming languages better? The role of imagery in program comprehension.Departamento de Psicologn H Experimental, Facultad de Psicologn H a,Universidad de Granada.
+
+
+Winslow, L.E. (1996). Programming pedagogy – A psychological overview. SIGCSE Bulletin, 28,17–22.
+
+Pennington, N. (1987a). Stimulus structures and mental representation in expert comprehension of computer programs. Cognitive Psychology, 19, 295-341.
+
+Esteves, M. and Mendes, A., “A Simulation Tool to Help Learningof Object Oriented Programming Basics”.  In Proceedings of the 34th ASEE/IEEE Frontiers in Education Conference, Savannah,Georgia, USA, October 2004, 20-23.
+
+
+Gomes, A. and Carmo, L. and Bigotte, E. and Mendes, A., "Mathematics and programming problem solving", 3rd E-Learning Conference – Computer Science Education, Coimbra, September 2006.
+
+Miliszewska, I., Tan, G., “Befriending Computer Programming: A Proposed Approach to Teaching Introductory Programming”, Journal of Issues in Informing Science & Information Technology, Vol. 4, 2007, 277-289.
+
+Lethbridge, C.; Diaz-Herrera, J.; LeBlanc, Jr.; Thompson, B., “Improving software practice through education: Challenges and future trends”,  Future of Software Engineering, (FOSE apos;07),May 2007 Page(s):12 – 28.
+
+Hundhausen, J. Brown, “An experimental study of the impact of visual semantic feedback on novice programming”,  Journal of Visual Language and Computing, Vol. 18, 2007, 537-559.
+
+Boshernitsan, M., Downes, M.(2004). Visual Programming Languages: A Survey.Computer Science Division (EECS) University of California Berkeley.
+
+Begel, A,.(1996).LogoBlocks: A Graphical Programming Language for Interacting with the World.MIT Media Laboratory 
+
+Mafrur, R. "(IndoBlockly) Visual Programming Editor for Indonesia",  In Proceedings of Seminar Nasional Ilmu Komputer Universitas Diponegoro (SNIK UNDIP 2012), Semarang, September 15, 2012, Graha Ilmu, Yogyakarta,155-160.
+
+ 
+ 
+ 
+ 
+ http://zaifbio.wordpress.com/2009/11/15/ranah-penilaian-kognitif-afektif-dan-psikomotorik/
+http://www.anneahira.com/pengertian-kognitif-afektif-psikomotorik.htm
+http://p4mristkippgrisda.wordpress.com/2011/05/10/uji-validitas-dan-reliabilitas/
+http://masmud09.blogspot.com/2009/06/tingkat-kesukaran-dan-daya-beda.html

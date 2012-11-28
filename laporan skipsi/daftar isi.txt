@@ -1,3 +1,22 @@
+soal pada lampiran
+uji instrumen uji coba lampiran
+design dan tampilan masuk bab II
+
+lampiran analisis deskriptif
+lampiran uji normalitas pretes
+lampiran uji beda rata-rata pretes
+lampiran uji normalias postes
+lampiran uji beda rata-rata postes
+lampiran perhitungan gain
+lampiran analisis korelasi, uji signifikansi korelasi, dan determinasi.
+
+
+
+
+
+
+
+
 BAB I PENDAHULUAN
 1.1 Latar Belakang
 1.2 Rumusan Masalah
@@ -21,7 +40,9 @@ BAB II TINJAUAN PUSTAKA DAN LANDASAN TEORI
 			2.2.5.1.1 Kelebihan VPLs
 			2.2.5.1.2 Kekurangan VPLs
 	2.2.6 IndoBlockly
-		2.2.6.1 Konsep IndoBlockly
+		2.2.6.1 Konsep IndoBlockly 
+		2.2.6.2 Contoh Pembuatan Program Sederhana menggunakan IndoBlockly
+	
 		
 
 BAB III METODOLOGI PENELITIAN
@@ -42,6 +63,9 @@ BAB III METODOLOGI PENELITIAN
 		3.6.1.2 Menentukan Reabilitas Soal
 		3.6.1.3 Menentukan Daya Pembeda Soal
 		3.6.1.4 Menentukan Tingkat Kesukaran Soal
+	3.6.2 Hasil Uji Instrumen
+		3.6.2.1 Hasil Uji Instrumen Expert
+		3.6.2.2 Hasil Uji Instrumen Uji Coba
 3.7 Teknik Pengumpulan Data
 3.8 Teknik Pengolahan Data
 	3.8.1 Pengolahan Data Kuantitatif
