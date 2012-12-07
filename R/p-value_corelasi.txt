@@ -1,4 +1,15 @@
- cor.test(eksperimen[,c("pretes")],eksperimen[,c("postes")], method="spearman")
+ cor.test(prepostext[,c("pre")],prepostext[,c("pos")], method="spearman")
+
+prepostext[,c("pos","pre")
+
+	Spearman's rank correlation rho
+
+data:  prepostext[, c("pre")] and prepostext[, c("pos")] 
+S = 1996.469, p-value = 0.01533
+alternative hypothesis: true rho is not equal to 0 
+sample estimates:
+     rho 
+0.453621 
 
  
  > shapiro.test(eksperimen$pretes)

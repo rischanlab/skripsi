@@ -2,6 +2,7 @@ soal pada lampiran
 uji instrumen uji coba lampiran
 design dan tampilan masuk bab II
 
+lampiran uji coba instrumen
 lampiran analisis deskriptif
 lampiran uji normalitas pretes
 lampiran uji beda rata-rata pretes
@@ -9,6 +10,71 @@ lampiran uji normalias postes
 lampiran uji beda rata-rata postes
 lampiran perhitungan gain
 lampiran analisis korelasi, uji signifikansi korelasi, dan determinasi.
+
+
+
+
+
+Daftar Tabel
+
+Tabel 3.1 Desain Kelompok Eksperimen dan Kontrol Pretes-Posttes	38
+Tabel 3.2 Klasifikasi Koefisien Validitas			42
+Tabel 3.3 Klasifikasi Koefisien Reliabilitas			44 
+Tabel 3.4 Klasifikasi Koefisien Daya Pembeda			45
+Tabel 3.5 Klasifikasi Koefisien Indeks Kesukaran		46
+Tabel 3.6 Hasil Analisis Instrumen Tes Uji Coba			39
+Tabel 3.7 Teknik Pengumpulan Data				50
+Tabel 3.8 Kategori Gain yang dinormalisasi			51
+Tabel 3.9 Kriteria Penilaian Korelasi				54
+Tabel 4.1 Statistik Deskriptif Data Hasil Pretes dan Postes	56
+Tabel 4.2 Data Statistik Skor Pretes Kelas Eksperimen dan Kelas Kontrol	58
+Tabel 4.3 Hasil Uji Normalitas Data Pretes			61
+Tabel 4.4 Hasil Uji Mann-Whitney Data Pretes			63
+Tabel 4.5 Statistika Deskriptif Skor Postes Kelas Eksperimen dan Kelas Kontrol		64
+Tabel 4.6 Hasil Uji Normalitas Data Postes			67
+Tabel 4.7 Hasil Uji Mann Whitney Data Postes			68
+Tabel 4.8 Statistik Deskriptif Skor Indeks Gain Tes Kemampuan Mahasiswa KelasEksperimen dan Kelas Kontrol					69
+Tabel 4.9 Daftar Persentase Kualitas Peningkatan Kemampuan Mahasiswa Kelas Eksperimen dan Kelas Kontrol							69
+Tabel 4.10 Hasil Uji Normalitas Data Pretes Postes kelas eksperimen	71
+Tabel 4.11 Koefisien Korelasi antara Pretes dan Postes Kelas Eksperimen 71
+Tabel 4.12 Uji Signifikansi Koefisien Korelasi antara Pretes dan Postes Kelas Eksperimen	72
+
+
+
+
+
+
+
+
+
+bare jolali masalah soal yang untuk konsultasi dengan dosen 
+
+
+
+Daftar Gambar
+
+Gambar 2.1 Hirarki Piramida Taksonomi Bloom	20
+Gambar 2.2 . Konsep IndoBlockly			27
+Gambar 2.2 Index awal aplikasi IndoBlockly	29
+Gambar 2.3 Input output sederhana menggunakan IndoBlockly	30
+Gambar 2.4 Menu Teks pada IndoBlockly				30
+Gambar 2.5 Contoh penggunaan variabel pada IndoBlockly		31
+Gambar 2.6 Contoh array di IndoBlockly				31
+Gambar 2.7 Penggunaan if pada IndoBlockly			32
+Gambar 2.8 Penggunaan for pada IndoBlockly			32
+Gambar 2.9 Program sederhana untuk mencari nilai maksimum dari inputan user menggunakan IndoBlockly							33
+Gambar 2.10 Aplikasi sederhana perhitungan luas persegi panjang menggunakan IndoBlockly	34
+Gambar 2.11 Hasil output running aplikasi sederhana perhitungan luas persegi panjang menggunakan IndoBlockly				34
+
+Gambar 2.12. Hasil konvert code puzzle IndoBlockly ke source code C	35
+Gambar 2.13 Hasil output running program dengan C Free.			35
+Gambar 3.1 Alur Penelitian 			38
+Gambar 4.1 Hasil Pretes Kelas Eksperimen dan Kelas Kontrol		59
+Gambar 4.2 .Q-Q Plot pretes kelas eksperimen				60
+Gambar 4.3. Q-Q Plot pretes kelas kontrol				60
+Gambar 4.4 Hasil Postes Kelas Eksperimen dan Kelas Kontrol		64
+Gambar 4.5 Uji Normalitas dengan Q-Q Plot data postes kelas eksperimen	65
+Gambar 4.6 Uji Normalitas dengan Q-Q plot data postes kelas kontrol	66
 
 
 
