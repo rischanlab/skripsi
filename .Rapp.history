@@ -1,0 +1,9 @@
+library(Rcmdr)
+library('Rcmdr')
+library('Rcmdr');
+library ('Rcmdr')
+cor.test(prepostext[,c("pre")],prepostext[,c("pos")], method="spearman")
+cor(prepostext[,c("pos","pre")], use="complete.obs", method="spearman")
+cor.test(prepostext[,c("pre")], prepostext[,c("pos")], method="spearman")
+cor(prepostext[,c("pos","pre")], use="complete.obs", method="spearman")
+cor.test(prepostext[,c("pre")], prepostext[,c("pos")], method="spearman")
