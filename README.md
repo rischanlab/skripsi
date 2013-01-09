@@ -14,7 +14,7 @@ analisis statistik. pada skripsi ini sya menggunakan R tool for OSX (R studio ju
 dan kebetulan juga saat itu saya sedang develop IndoBlockly bersama kawan-kwan 
 mengenai indoblockly bisa diakses 
 di        http://apps.developers.or.id 
-fb        http://fb.com/IndoBlockly
+fb        http://facebook.com/IndoBlockly
 tw        @indoBlockly
 about     http://blockly.developers.or.id
 download  http://github.com/rischanlab/indoblockly
