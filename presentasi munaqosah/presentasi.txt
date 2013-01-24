@@ -1,0 +1,16 @@
+1. analisis deskriptif : pretes.data, postest.data
+2. analisis inferensi
+	a. pretes
+		- normalitas : pretes.data
+		- beda rata-rata/wilcoxon two sample not paired: dataanalisis.data
+	b. postes
+		- normalitas : postes.data
+		- beda rata-rata/wilcoxon two sample not paired: dataanalisis.data
+		
+3. Analisis Korelasi
+	data : pre_pos_eksperimen
+	normalitas, uji hipotesis korelasi wilcoxon 2 sample paired
+	uji signifikansi korelasi
+	
+	cor.test(prepostext[,c("pre")], prepostext[,c("pos")], method="spearman")
+	
