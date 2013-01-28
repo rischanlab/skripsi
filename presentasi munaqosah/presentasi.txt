@@ -1,7 +1,7 @@
 1. analisis deskriptif : pretes.data, postest.data
 2. analisis inferensi
 	a. pretes
-		- normalitas : pretes.data
+		- normalitas : pretes.data  
 		- beda rata-rata/wilcoxon two sample not paired: dataanalisis.data
 	b. postes
 		- normalitas : postes.data
@@ -14,3 +14,28 @@
 	
 	cor.test(prepostext[,c("pre")], prepostext[,c("pos")], method="spearman")
 	
+	
+	
+	Tambahan pak agus
+	
+	1. masalah, metode, hasil
+	2. judul KAPITAL SEMUA
+	3. Studi pada Mahasiswa di batasan
+	
+	Tambahan pak sumarsono
+	1. Disusun oleh :
+	2. penomoran halaman 
+		bawah di tengah romawi
+		Halaman Bab tengah bab
+		setelah bab diatas kanan
+	3. bukan berbasis human tapi soal :-D hal 89
+	
+	tambahan pak agung
+	1. batasan masalah 
+	 tidak bisa 100% pembatasan, faktor external berpengaruh
+	2. Hubungan antara 
+		
+		studi pada mahasiswa 
+	
+	
+		
